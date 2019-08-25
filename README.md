@@ -13,6 +13,8 @@ Create a reinforcement learning platform for autonomous driving. platform should
 ## Platform Software Reqiurements
 - OS
 - Reinforcement Learning
-- Tools to build and Program
+- Tools to Build and Development
 - Simulator
-
+- Web Site for Performance monitoring
+- UI for troubleshooting
+- Architecture
