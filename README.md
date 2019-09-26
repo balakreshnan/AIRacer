@@ -6,6 +6,9 @@ Create a reinforcement learning platform for autonomous driving. platform should
 
 > Project is only for development purpose.
 
+## Architecture
+![alt text](https://github.com/balakreshnan/AIRacer/blob/master/AIRacerE2EArch.jpg "AI Racer Architecture")
+
 ## Use Case
 Build a development kit to test autonomous driving using reinforcement learning and other deep learning, cognitive AI and future technology to come.
 
