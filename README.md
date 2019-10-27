@@ -1,8 +1,8 @@
 # AIRacer
-Artificial Intelligence Autonomous car learning platform
+Artificial Intelligence learning platform with IoT and Mixed Reality combined. Learn AI with fun.
 
 ## Introduction
-Create a reinforcement learning platform for autonomous driving. platform should allow any one to program and build autonoumous driving machines and improve by adding new features. 
+Create a reinforcement/Deep learning platform for autonomous driving and other AI use cases. Platform should allow any one to program and build autonoumous driving machines and improve by adding new features. Start with driving machines and then go into Robotics as well.
 
 > Project is only for development purpose.
 
